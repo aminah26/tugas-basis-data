@@ -1,2 +1,2 @@
-# tugas-basis-data
+# database
 penggunaan dasar database
