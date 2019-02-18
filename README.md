@@ -1,2 +1,0 @@
-# database
-penggunaan dasar database
